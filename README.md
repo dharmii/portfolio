@@ -13,6 +13,6 @@ This is a personal portfolio project built using React.js as part of the MERN st
 
 Frontend: React.js, HTML, CSS, JavaScript
 
-Deployment: Netlify
+**Deployment**: Netlify
 
 You can view the live version of the portfolio here. (Replace # with the link to your hosted portfolio)
