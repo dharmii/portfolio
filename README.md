@@ -1,24 +1,17 @@
-**Dharmika's Portfolio**
+**🚀Dharmika's Portfolio Website using React**
 
-A modern, responsive portfolio website showcasing my skills, projects, and experience as a Full-Stack Web Developer specializing in the MERN stack.
+This is a personal portfolio project built using React.js as part of the MERN stack. The portfolio showcases my projects, skills, certifications, experience, and contact information. Feel free to explore the source code, set it up locally, or use it for inspiration.
 
-**Features**
+**📋Features**
 
-Display of completed projects
-
-Skills and experience section
-
-Contact form
-
-Responsive design for all devices
+- Built with React.js for a modern user interface. 
+- Fully responsive design for all devices.
+-Showcases projects, skills, and experience.
+-Modular and reusable components.
 
 **Technologies Used**
 
 Frontend: React.js, HTML, CSS, JavaScript
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
 
 Deployment: Netlify
 
