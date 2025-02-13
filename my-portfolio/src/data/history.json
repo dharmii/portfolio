@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Programmer Analyst",
+      "organisation": "Cognizant",
+      "startDate": "December, 2023",
+      "endDate": "Present",
+      "experiences": ["Expertise in ReactJs, MongoDB, Python, JavaScript and Java.","Developing full-stack web applications using ReactJs, NodeJs and MongoDB , skilled in AI frameworks, Creating responsive UI components and integrating REST APIs for seamless functionality."],
+      "imageSrc": "cts1_logo"
+    },
+    {
+      "role": "Full Stack Developer",
+      "organisation": "Tap Academy",
+      "startDate": "June, 2022",
+      "endDate": "May, 2023",
+      "experiences": ["Worked on full-stack development and application performance enhancement.", "Worked with teams to build and deploy scalable web apps using React, Node.js, and MongoDB."], 
+      "imageSrc": "tapacademy_icon"
+    },
+    {
+      "role": "SDE Intern",
+      "organisation": "PrepBytes",
+      "startDate": "Jan, 2023",
+      "endDate": "Apr, 2023",
+      "experiences": [
+        "Contributed to backend development and API integration projects.",
+        "Gained hands-on experience in software engineering and problem-solving while collaborating effectively within a tech team."
+      ],
+      "imageSrc": "prepbytes_logo"
+    }
+  ]

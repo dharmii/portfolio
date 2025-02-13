@@ -1,0 +1,63 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "html_icon"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "css_icon"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "javascript_logo"
+    },
+    {
+      "title": "React",
+      "imageSrc": "react_logo"
+    },
+    {
+      "title": "Express",
+      "imageSrc": "express_icon"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "nodejs_logo"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "mongodb_icon"
+    },
+    
+    {
+      "title": "Pega",
+      "imageSrc": "pega_logo"
+    },
+    {
+      "title": "AWS",
+      "imageSrc": "aws_logo"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "git_icon"
+    },
+    {
+      "title": "GraphQL",
+      "imageSrc": "graphql_icon"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "mysql2_icon"
+    },
+    {
+      "title": "Devops",
+      "imageSrc": "devops_icon"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "cplusplus_icon"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "java3_logo"
+    }
+  ]
