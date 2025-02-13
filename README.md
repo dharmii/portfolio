@@ -6,8 +6,8 @@ This is a personal portfolio project built using React.js as part of the MERN st
 
 - Built with React.js for a modern user interface. 
 - Fully responsive design for all devices.
--Showcases projects, skills, and experience.
--Modular and reusable components.
+- Showcases projects, skills, and experience.
+- Modular and reusable components.
 
 **Technologies Used**
 
