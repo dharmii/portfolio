@@ -8,14 +8,6 @@
       "imageSrc": "cts1_logo"
     },
     {
-      "role": "Full Stack Developer",
-      "organisation": "Tap Academy",
-      "startDate": "June, 2022",
-      "endDate": "Dec, 2022",
-      "experiences": ["Worked on full-stack development and application performance enhancement.", "Worked with teams to build and deploy scalable web apps using React, Node.js, and MongoDB."], 
-      "imageSrc": "tapacademy_icon"
-    },
-    {
       "role": "SDE Intern",
       "organisation": "PrepBytes",
       "startDate": "Jan, 2023",
@@ -25,5 +17,14 @@
         "Gained hands-on experience in software engineering and problem-solving while collaborating effectively within a tech team."
       ],
       "imageSrc": "prepbytes_logo"
+    },
+    {
+      "role": "Full Stack Developer",
+      "organisation": "Tap Academy",
+      "startDate": "June, 2022",
+      "endDate": "Dec, 2022",
+      "experiences": ["Worked on full-stack development and application performance enhancement.", "Worked with teams to build and deploy scalable web apps using React, Node.js, and MongoDB."], 
+      "imageSrc": "tapacademy_icon"
     }
+    
   ]
